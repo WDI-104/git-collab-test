@@ -6,6 +6,7 @@ import DefaultComponent from './components/DefaultComponent'
 import Feature1 from './components/Feature1'
 import Feature2 from './components/Feature2'
 import Feature3 from './components/Feature3'
+import Featurejosscmorera from './components/Feature-josscmorera'
 import FeatureGlf30 from './components/FeatureGlf30'
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <Feature1 />
       <Feature2 />
       <Feature3 />
+      <Featurejosscmorera/>
       <FeatureGlf30 />
     </>
   )
