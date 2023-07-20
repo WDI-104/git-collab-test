@@ -8,19 +8,19 @@ import Feature2 from './components/Feature2'
 import Feature3 from './components/Feature3'
 import Featurejosscmorera from './components/Feature-josscmorera'
 import FeatureGlf30 from './components/FeatureGlf30'
-
+import FeatureTerranceRivers from "./components/Feature-TerranceRivers";
 function App() {
-
   return (
     <>
       <DefaultComponent />
       <Feature1 />
       <Feature2 />
       <Feature3 />
+      <FeatureTerranceRivers />
       <Featurejosscmorera/>
       <FeatureGlf30 />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
