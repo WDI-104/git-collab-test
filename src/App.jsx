@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import DefaultComponent from './components/DefaultComponent'
 import Feature1 from './components/Feature1'
+import Feature2 from './components/Feature2'
 
 function App() {
 
@@ -11,6 +12,7 @@ function App() {
     <>
       <DefaultComponent />
       <Feature1 />
+      <Feature2 />
     </>
   )
 }
